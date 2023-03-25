@@ -18,17 +18,21 @@
 
 ## Currently Watching
 
-### **Yu☆Gi☆Oh! Duel Monsters**
+- ### **Yu☆Gi☆Oh! Duel Monsters**
 
 &nbsp;
 
 ## My Top Five
 
-- **Bungou Stray Dogs**
-- **Ousama Ranking**
-- **Psycho-Pass**
-- **Shingeki No Kyojin (Attack on Titan)**
-- **Steins;Gate**
+- ### **Bungou Stray Dogs**
+
+- ### **Ousama Ranking**
+
+- ### **Psycho-Pass**
+
+- ### **Shingeki No Kyojin (Attack on Titan)**
+
+- ### **Steins;Gate**
 
 &nbsp;
 
@@ -408,7 +412,9 @@
 
 ## I Don't Want to Watch
 
-- Black Clover: Jump Festa 2016 Special
+- Black Clover
+  - Black Clover: Jump Festa 2016 Special
+  - Mugyutto! Black Clover
 - Bungou Stray Dogs Wan!
 - Death Note: Rewrite
 - Dororo Pilot
@@ -418,12 +424,12 @@
 - Kimetsu no Yaiba Movie: Mugen Ressha-hen
 - Koro-sensei QQuest!
 - Mijikamon
-- Mugyutto! Black Clover
 - Overlord IV
 - Satsuriku no Tenshi
-- Shingeki no Kyojin Movie 1: Guren no Yumiya
-- Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa
-- Shingeki no Kyojin Season 2 Movie: Kakusei no Houkou
-- Shingeki no Kyojin: Chronicle
-- Shingeki! Kyojin Chuugakkou
+- Shingeki no Kyojin
+  - Shingeki no Kyojin Movie 1: Guren no Yumiya
+  - Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa
+  - Shingeki no Kyojin Season 2 Movie: Kakusei no Houkou
+  - Shingeki no Kyojin: Chronicle
+  - Shingeki! Kyojin Chuugakkou
 - Violet Evergarden: Recollections
