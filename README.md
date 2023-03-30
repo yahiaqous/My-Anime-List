@@ -2,6 +2,12 @@
 
 # My Anime List
 
+## To Do:
+- [ ] Fill the Reason Column in the I Don't Want to Watch Table
+- [ ] Add Episodes Number to (Currently Watching, I've Watched, To be Continued, I'd Like to Watch, I Don't Want to Watch) Tables
+
+&nbsp;
+
 ## Table of Contents
 
 - [My Anime List](#my-anime-list)
