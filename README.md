@@ -19,9 +19,7 @@ Each section contains a synopsis, review, my thoughts on the anime, a video of t
 
 # My Anime List
 
-## To Do:
-- [ ] Fill the Reason Column in the I Don't Want to Watch Table
-- [ ] Add Episodes Number to (Currently Watching, I've Watched, To be Continued, I'd Like to Watch, I Don't Want to Watch) Tables
+Hold onto your hats, anime lovers! It's time to dive into my anime list, which is basically my personal journey through the wacky, wonderful world of anime. If you're looking for an escape from reality, or just need some laughs, you've come to the right place. Just be warned, there's a high chance of developing a severe case of "anime binge-watch syndrome." But hey, who needs sleep when you've got anime, right?
 
 &nbsp;
 
@@ -482,3 +480,10 @@ Each section contains a synopsis, review, my thoughts on the anime, a video of t
 |     |                                              |            Shingeki no Kyojin: Chronicle             |  Movie  | 2020 |        |
 |     |                                              |             Shingeki! Kyojin Chuugakkou              | Series  | 2015 |        |
 | 14  |              Violet Evergarden               |           Violet Evergarden: Recollections           | Special | 2021 |        |
+
+&nbsp;
+
+## To Do:
+- [ ] Fill the Reason Column in the I Don't Want to Watch Table
+- [ ] Add Episodes Number to (Currently Watching, I've Watched, To be Continued, I'd Like to Watch, I Don't Want to Watch) Tables
+
