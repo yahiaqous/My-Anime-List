@@ -1,5 +1,22 @@
 <!-- @format -->
 
+<!-- https://github.com/anime-dl/anime-downloader -->
+<!-- https://github.com/k4m4/movies-for-hackers -->
+<!-- https://github.com/An3sha/Anime-List -->
+<!-- https://github.com/PiJoules/top-5-anime-list -->
+<!-- https://github.com/hararudoka/anime -->
+
+<!-- 
+A note from me
+
+So this is just a small list of anime I composed simply because I was bored. This wasn't really created for the purpose of others reading it, but if you find that you enjoyed some of the anime from this, that's good.
+
+Regarding the actual anime on the list, these are my own personal preferences. These are my personal five favorite anime. I'm not saying these are the absolute best anime ever created (though I do highly recommend watching them, especially #1).
+
+Each section contains a synopsis, review, my thoughts on the anime, a video of the opening, and links to the series where you can watch them. This site is not a review site. Each section just contains my thoughts on how I perceived the anime and why I enjoyed it. I'm not actually a good reviewer, so in each section are the YouTube videos of a channel called Glass Reflection. The owner of the channel is a much better reviewer than I am and goes into more detail about each anime without usually reveal
+-->
+
+
 # My Anime List
 
 ## To Do:
