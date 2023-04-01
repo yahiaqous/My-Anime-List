@@ -49,6 +49,8 @@ Hold onto your hats, anime lovers! It's time to dive into my anime list, which i
 
 ## My Top Five
 
+The top five unordered!
+
 |                  Title                   |
 | :--------------------------------------: |
 |          **Bungou Stray Dogs**           |
@@ -60,6 +62,8 @@ Hold onto your hats, anime lovers! It's time to dive into my anime list, which i
 &nbsp;
 
 ## My Favorite List
+
+The top list unordered!
 
 |  #  |                    Title                     |
 | :-: | :------------------------------------------: |
