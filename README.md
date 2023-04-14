@@ -6,11 +6,12 @@
 <!-- https://github.com/PiJoules/top-5-anime-list -->
 <!-- https://github.com/hararudoka/anime -->
 
-# My Anime List
+<h1 align="center">My Anime List</h1>
 
-<h1 align="center">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/80676788/232080085-f38f8f42-5561-40b3-af4a-a86cef793302.gif"/>
-</h1>
+
+</div>
 
 Dive into my anime list, which is basically my personal journey through the wacky, wonderful world of anime.
 
@@ -20,17 +21,16 @@ Just be warned, there's a high chance of developing a severe case of "**Anime Bi
 
 ## Table of Contents
 
-- [My Anime List](#my-anime-list)
-  - [Table of Contents](#table-of-contents)
-  - [Currently Watching](#currently-watching)
-  - [My Top Five](#my-top-five)
-  - [My Favorite List](#my-favorite-list)
-  - [I've Watched](#ive-watched)
-    - [Movies](#movies)
-  - [To be Continued](#to-be-continued)
-  - [I'd Like to Watch](#id-like-to-watch)
-    - [Movies & OVA](#movies--ova)
-  - [I Don't Want to Watch](#i-dont-want-to-watch)
+- [Table of Contents](#table-of-contents)
+- [Currently Watching](#currently-watching)
+- [My Top Five](#my-top-five)
+- [My Favorite List](#my-favorite-list)
+- [I've Watched](#ive-watched)
+  - [Movies](#movies)
+- [To be Continued](#to-be-continued)
+- [I'd Like to Watch](#id-like-to-watch)
+  - [Movies & OVA](#movies--ova)
+- [I Don't Want to Watch](#i-dont-want-to-watch)
 
 &nbsp;
 
