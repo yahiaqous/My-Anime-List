@@ -12,7 +12,9 @@
   <img  src="https://user-images.githubusercontent.com/80676788/232080085-f38f8f42-5561-40b3-af4a-a86cef793302.gif"\/>
 </h1>
 
-Hold onto your hats, anime lovers! It's time to dive into my anime list, which is basically my personal journey through the wacky, wonderful world of anime. If you're looking for an escape from reality, or just need some laughs, you've come to the right place. Just be warned, there's a high chance of developing a severe case of "anime binge-watch syndrome." But hey, who needs sleep when you've got anime, right?
+Dive into my anime list, which is basically my personal journey through the wacky, wonderful world of anime.
+
+Just be warned, there's a high chance of developing a severe case of "**Anime Binge-Watch Syndrome**". But who needs sleep when you've got anime!
 
 &nbsp;
 
