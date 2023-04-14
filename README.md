@@ -66,40 +66,37 @@ The top list unordered!
 |  2  | Ansatsu Kyoushitsu (Assassination Classroom) |
 |  3  |                    Arcane                    |
 |  4  |               B:The Beginning                |
-|  5  |                  Barakamon                   |
-|  6  |                 Black Clover                 |
-|  7  |       Boku Dake ga Inai Machi (Erased)       |
-|  8  |   Boku No Hero Academia (My Hero Academia)   |
-|  9  |              Bungou Stray Dogs               |
-| 10  |                 Chainsaw man                 |
-| 11  |                  Death Note                  |
-| 12  |                 Death Parade                 |
-| 13  |                    Dororo                    |
-| 14  |                  Dr. Stone                   |
-| 15  |             Fullmetal Alchemist              |
-| 16  |                  God Eater                   |
-| 17  |               Hunter x Hunter                |
-| 18  |                Jujutsu Kaisen                |
-| 19  |       Kimetsu No Yaiba (Demon Slayer)        |
-| 20  |     Kiseijuu-Sei no Kakuritsu (Parasyte)     |
-| 21  |                Made in Abyss                 |
-| 22  |          Mirai Nikki (Future Diary)          |
-| 23  |                   Monster                    |
-| 24  |    Nanatsu No Taizai (Seven Deadly Sins)     |
-| 25  |                   Noragami                   |
-| 26  |                Ousama Ranking                |
-| 27  |     Owari No Seraph (Seraph of the End)      |
-| 28  |                 Psycho-Pass                  |
-| 29  |      Rainbow:Nisha Rokubou No Shichinin      |
-| 30  |     Shingeki No Kyojin (Attack on Titan)     |
-| 31  |                 Spy x Family                 |
-| 32  |                 Steins;Gate                  |
-| 33  |                 Tokyo Ghoul                  |
-| 34  |               Tokyo Revengers                |
-| 35  |                 Vinland Saga                 |
-| 36  |              Violet Evergarden               |
-| 37  |                  Yu☆Gi☆Oh!                   |
-| 38  |              Zankyou No Terror               |
+|  5  |                 Black Clover                 |
+|  6  |       Boku Dake ga Inai Machi (Erased)       |
+|  7  |   Boku No Hero Academia (My Hero Academia)   |
+|  8  |              Bungou Stray Dogs               |
+|  9  |                  Death Note                  |
+| 10  |                 Death Parade                 |
+| 11  |                    Dororo                    |
+| 12  |                  Dr. Stone                   |
+| 13  |             Fullmetal Alchemist              |
+| 14  |                  God Eater                   |
+| 15  |               Hunter x Hunter                |
+| 16  |                Jujutsu Kaisen                |
+| 17  |       Kimetsu No Yaiba (Demon Slayer)        |
+| 18  |     Kiseijuu-Sei no Kakuritsu (Parasyte)     |
+| 19  |                Made in Abyss                 |
+| 20  |          Mirai Nikki (Future Diary)          |
+| 21  |                   Monster                    |
+| 22  |    Nanatsu No Taizai (Seven Deadly Sins)     |
+| 23  |                Ousama Ranking                |
+| 24  |     Owari No Seraph (Seraph of the End)      |
+| 25  |                 Psycho-Pass                  |
+| 26  |      Rainbow:Nisha Rokubou No Shichinin      |
+| 27  |     Shingeki No Kyojin (Attack on Titan)     |
+| 28  |                 Spy x Family                 |
+| 29  |                 Steins;Gate                  |
+| 30  |                 Tokyo Ghoul                  |
+| 31  |               Tokyo Revengers                |
+| 32  |                 Vinland Saga                 |
+| 33  |              Violet Evergarden               |
+| 34  |                  Yu☆Gi☆Oh!                   |
+| 35  |              Zankyou No Terror               |
 
 &nbsp;
 
