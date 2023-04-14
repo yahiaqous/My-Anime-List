@@ -9,7 +9,7 @@
 # My Anime List
 
 <h1 align="center">
-  <img  src="https://user-images.githubusercontent.com/80676788/232080085-f38f8f42-5561-40b3-af4a-a86cef793302.gif"\/>
+  <img src="https://user-images.githubusercontent.com/80676788/232080085-f38f8f42-5561-40b3-af4a-a86cef793302.gif"/>
 </h1>
 
 Dive into my anime list, which is basically my personal journey through the wacky, wonderful world of anime.
