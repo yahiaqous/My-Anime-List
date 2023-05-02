@@ -37,9 +37,10 @@ Just be warned, there's a high chance of developing a severe case of "**Anime Bi
 
 ## Currently Watching
 
-|  #  |   Title   |           Seasons           | Episodes |  Type  | Year |
-| :-: | :-------: | :-------------------------: | :------: | :----: | :--: |
-|  1  | Yu☆Gi☆Oh! | **Yu☆Gi☆Oh! Duel Monsters** |   224    | Series | 2000 |
+|  #  |     Title      |                 Seasons                 | Episodes |  Type  | Year |
+| :-: | :------------: | :-------------------------------------: | :------: | :----: | :--: |
+|  1  |   Yu☆Gi☆Oh!    |       **Yu☆Gi☆Oh! Duel Monsters**       |   224    | Series | 2000 |
+|  2  | Ousama Ranking | **Ousama Ranking: Yuuki no Takarabako** |    10    | Series | 2023 |
 
 &nbsp;
 
@@ -247,6 +248,7 @@ The top list unordered!
 | 56  |                  Youjo Senki                   |                           Youjo Senki                           |    12    |   Series    | 2017 |
 |     |                                                |                        Youjo Senki Movie                        |    1     |    Movie    | 2019 |
 | 57  |                   Yu☆Gi☆Oh!                    |                            Yu☆Gi☆Oh!                            |    27    |   Series    | 1998 |
+| 57  |                                                |                  Yu☆Gi☆Oh!: Hikari no Pyramid                   |    1     |    Movie    | 2004 |
 | 58  |               Zankyou No Terror                |                                -                                |    11    |   Series    | 2014 |
 
 ### **Movies**
@@ -267,42 +269,42 @@ The top list unordered!
 
 ## To be Continued
 
-|  #  |         Title         |                                Seasons                                 | Episodes |  Type   | Year | Installed  |
-| :-: | :-------------------: | :--------------------------------------------------------------------: | :------: | :-----: | :--: | :--------: |
-|  1  |       Barakamon       |                               Handa-kun                                |    12    | Series  | 2016 |    Yes     |
-|  2  |        Bleach         |                                 Bleach                                 |  366+2   | Series  | 2004 |    Yes     |
-|     |                       |                   Bleach Movie 1: Memories Of Nobody                   |    1     |  Movie  | 2006 |    Yes     |
-|     |                       | Bleach Movie 2: The Diamonddust Rebellion - Mou Hitotsu no Hyourinmaru |    1     |  Movie  | 2007 |    Yes     |
-|     |                       |           Bleach Movie 3: Fade To Black - kimi no na wo yobu           |    1     |  Movie  | 2008 |    Yes     |
-|     |                       |                       Bleach Movie 4: Jigoku-hen                       |    1     |  Movie  | 2010 |    Yes     |
-|     |                       |                       Bleach: Sennen Kessen-hen                        |    13    | Series  | 2022 |     No     |
-|  3  | Boku no Hero Academia |                    Boku no Hero Academia 6th Season                    |    25    | Series  | 2022 |     No     |
-|     |                       |                      Boku no Hero Academia (ONA)                       |          |   ONA   | 2022 |     No     |
-|  4  |   Bungou Stray Dogs   |                      Bungou Stray Dogs 4th Season                      |    13    | Series  | 2023 |     No     |
-|  5  |     Cowboy Bebop      |                    Cowboy Bebop: Tengoku no Tobira                     |    1     |  Movie  | 2001 |    Yes     |
-|  6  |     Death Parade      |                            Death Billiards                             |    1     |  Movie  | 2013 |     No     |
-|  7  |    Jujutsu Kaisen     |                         Jujutsu Kaisen 0 Movie                         |    1     |  Movie  | 2021 |    Yes     |
-|  8  |   Nanatsu no Taiza    |                  Nanatsu no Taizai: Ensa no Edinburgh                  |          |   ONA   | 2022 |     No     |
-|  9  |       Odd Taxi        |                      Odd Taxi Movie: In the Woods                      |    1     |  Movie  | 2022 |    Yes     |
-| 10  |  Shingeki No Kyojin   |          Shingeki No Kyojin: The Final Season - Kanketsu-hen           |          | Special | 2023 | Unfinished |
-| 11  |   Sword Art Online    |             Sword Art Online Alternative: Gun Gale Online              |    12    | Series  | 2018 |    Yes     |
-|     |                       |                     Sword Art Online: Alicization                      |    24    | Series  | 2018 |    Yes     |
-|     |                       |           Sword Art Online: Alicization - War of Underworld            |    12    | Series  | 2019 |    Yes     |
-|     |                       |      Sword Art Online: Alicization - War of Underworld 2nd Season      |    12    | Series  | 2020 |    Yes     |
-|     |                       |          Sword Art Online the Movie - Hoshi Naki Yoru no Aria          |    1     |  Movie  | 2021 |     No     |
-|     |                       |    Sword Art Online: Progressive Movie - Kuraki Yuuyami no Scherzo     |          |  Movie  | 2022 |     No     |
-| 12  |    Tokyo Revengers    |                   Tokyo Revengers: Seiya Kessen-hen                    |          | Series  | 2023 |     No     |
-| 13  |     Vinland Saga      |                         Vinland Saga Season 2                          |          | Series  | 2023 |     No     |
-| 14  |       Yu☆Gi☆Oh!       |                      Yu☆Gi☆Oh!: Hikari no Pyramid                      |    1     |  Movie  | 2004 |    Yes     |
-|     |                       |                      Yu☆Gi☆Oh!: Duel Monsters GX                       |   180    | Series  | 2004 |     No     |
-|     |                       |                             Yu☆Gi☆Oh! 5D's                             |   154    | Series  | 2008 |     No     |
-|     |                       |           Yu☆Gi☆Oh! Movie: Chou Yuugou! Toki wo Koeta Kizuna           |    1     |  Movie  | 2010 |     No     |
-|     |                       |                            Yu☆Gi☆Oh! Zexal                             |    72    | Series  | 2011 |     No     |
-|     |                       |                         Yu☆Gi☆Oh! Zexal Second                         |    73    | Series  | 2012 |     No     |
-|     |                       |                 Yu☆Gi☆Oh! The Dark Side of Dimensions                  |    1     |  Movie  | 2016 |    Yes     |
-|     |                       |                            Yu☆Gi☆Oh! Arc-V                             |   148    | Series  | 2014 |     No     |
-|     |                       |                            Yu☆Gi☆Oh! VRAINS                            |   120    | Series  | 2017 |     No     |
-|     |                       |                            Yu☆Gi☆Oh! Rush!!                            |          | Series  | 2022 |     No     |
+|  #  |              Title              |                                Seasons                                 | Episodes |  Type   | Year | Installed  |
+| :-: | :-----------------------------: | :--------------------------------------------------------------------: | :------: | :-----: | :--: | :--------: |
+|  1  |            Barakamon            |                               Handa-kun                                |    12    | Series  | 2016 |    Yes     |
+|  2  |             Bleach              |                                 Bleach                                 |  366+2   | Series  | 2004 |    Yes     |
+|     |                                 |                   Bleach Movie 1: Memories Of Nobody                   |    1     |  Movie  | 2006 |    Yes     |
+|     |                                 | Bleach Movie 2: The Diamonddust Rebellion - Mou Hitotsu no Hyourinmaru |    1     |  Movie  | 2007 |    Yes     |
+|     |                                 |           Bleach Movie 3: Fade To Black - kimi no na wo yobu           |    1     |  Movie  | 2008 |    Yes     |
+|     |                                 |                       Bleach Movie 4: Jigoku-hen                       |    1     |  Movie  | 2010 |    Yes     |
+|     |                                 |                       Bleach: Sennen Kessen-hen                        |    13    | Series  | 2022 |     No     |
+|  3  |      Boku no Hero Academia      |                    Boku no Hero Academia 6th Season                    |    25    | Series  | 2022 |     No     |
+|     |                                 |                      Boku no Hero Academia (ONA)                       |          |   ONA   | 2022 |     No     |
+|  4  |        Bungou Stray Dogs        |                      Bungou Stray Dogs 4th Season                      |    13    | Series  | 2023 |     No     |
+|  5  |          Cowboy Bebop           |                    Cowboy Bebop: Tengoku no Tobira                     |    1     |  Movie  | 2001 |    Yes     |
+|  6  |          Death Parade           |                            Death Billiards                             |    1     |  Movie  | 2013 |     No     |
+|  7  |         Jujutsu Kaisen          |                         Jujutsu Kaisen 0 Movie                         |    1     |  Movie  | 2021 |    Yes     |
+|  8  | Kimetsu No Yaiba (Demon Slayer) |               Kimetsu No Yaiba: Katanakaji nno Sato-hen                |          | Series  | 2023 |     No     |
+|  9  |        Nanatsu no Taizai        |                  Nanatsu no Taizai: Ensa no Edinburgh                  |    1     |   ONA   | 2022 |     No     |
+| 10  |            Odd Taxi             |                      Odd Taxi Movie: In the Woods                      |    1     |  Movie  | 2022 |    Yes     |
+| 11  |       Shingeki No Kyojin        |          Shingeki No Kyojin: The Final Season - Kanketsu-hen           |          | Special | 2023 | Unfinished |
+| 12  |        Sword Art Online         |             Sword Art Online Alternative: Gun Gale Online              |    12    | Series  | 2018 |    Yes     |
+|     |                                 |                     Sword Art Online: Alicization                      |    24    | Series  | 2018 |    Yes     |
+|     |                                 |           Sword Art Online: Alicization - War of Underworld            |    12    | Series  | 2019 |    Yes     |
+|     |                                 |      Sword Art Online: Alicization - War of Underworld 2nd Season      |    12    | Series  | 2020 |    Yes     |
+|     |                                 |          Sword Art Online the Movie - Hoshi Naki Yoru no Aria          |    1     |  Movie  | 2021 |     No     |
+|     |                                 |    Sword Art Online: Progressive Movie - Kuraki Yuuyami no Scherzo     |          |  Movie  | 2022 |     No     |
+| 13  |         Tokyo Revengers         |                   Tokyo Revengers: Seiya Kessen-hen                    |          | Series  | 2023 |     No     |
+| 14  |          Vinland Saga           |                         Vinland Saga Season 2                          |          | Series  | 2023 |     No     |
+| 15  |            Yu☆Gi☆Oh!            |                      Yu☆Gi☆Oh!: Duel Monsters GX                       |   180    | Series  | 2004 |     No     |
+|     |                                 |                             Yu☆Gi☆Oh! 5D's                             |   154    | Series  | 2008 |     No     |
+|     |                                 |           Yu☆Gi☆Oh! Movie: Chou Yuugou! Toki wo Koeta Kizuna           |    1     |  Movie  | 2010 |     No     |
+|     |                                 |                            Yu☆Gi☆Oh! Zexal                             |    72    | Series  | 2011 |     No     |
+|     |                                 |                         Yu☆Gi☆Oh! Zexal Second                         |    73    | Series  | 2012 |     No     |
+|     |                                 |                 Yu☆Gi☆Oh! The Dark Side of Dimensions                  |    1     |  Movie  | 2016 |    Yes     |
+|     |                                 |                            Yu☆Gi☆Oh! Arc-V                             |   148    | Series  | 2014 |     No     |
+|     |                                 |                            Yu☆Gi☆Oh! VRAINS                            |   120    | Series  | 2017 |     No     |
+|     |                                 |                            Yu☆Gi☆Oh! Rush!!                            |          | Series  | 2022 |     No     |
 
 &nbsp;
 
@@ -375,66 +377,69 @@ The top list unordered!
 | 51  |                                 Inuyashiki                                 |                      -                       |    11    | Series  | 2017 |    Yes    |
 | 52  |                             Isshuukan Friends.                             |                                              |          |         |      |           |
 | 53  |                           Ito Junji: Collection                            |                                              |          |         |      |           |
-| 54  |                       JoJo no Kimyou na Bouken (TV)                        |                                              |          |         |      |           |
-| 55  |                                 Joker Game                                 |                      -                       |   12+2   | Series  | 2016 |    Yes    |
-| 56  |                                 Jormungand                                 |                                              |          |         |      |           |
-| 57  |                   Jouran: The Princess of Snow and Blood                   |                                              |          |         |      |           |
-| 58  |                                     K                                      |                                              |          |         |      |           |
-| 59  |         Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen         |                                              |          |         |      |           |
-| 60  |                              Kanata no Astra                               |                                              |          |         |      |           |
-| 62  |                           Katekyo Hitman Reborn!                           |                                              |          |         |      |           |
-| 63  |                   Kono Subarashii Sekai ni Shukufuku wo!                   |                                              |          |         |      |           |
-| 64  |                Kono Yo no Hate de Koi wo Utau Shoujo YU-NO                 |                                              |          |         |      |           |
-| 65  |                   Koukaku Kidoutai: Stand Alone Complex                    |                                              |          |         |      |           |
-| 66  |                          Koutetsujou no Kabaneri                           |                                              |          |         |      |           |
-| 67  |                              Kuroko no Basket                              |                                              |          |         |      |           |
-| 68  |                                Kuroshitsuji                                |                                              |          |         |      |           |
-| 69  |                             Kyoukai no Kanata                              |                                              |          |         |      |           |
-| 70  |                                Log Horizon                                 |                                              |          |         |      |           |
-| 71  |                        Magi: The Labyrinth of Magic                        |                                              |          |         |      |           |
-| 72  |                         Mahou Shoujo Madoka★Magica                         |                                              |          |         |      |           |
-| 73  |                            Mahoutsukai no Yome                             |                                              |          |         |      |           |
-| 74  |                                 Megalo Box                                 |                                              |          |         |      |           |
-| 75  |                               Mob Psycho 100                               |                                              |          |         |      |           |
-| 76  |                  Mushoku Tensei: Isekai Ittara Honki Dasu                  |                                              |          |         |      |           |
-| 77  |                                  Nanbaka                                   |                                              |          |         |      |           |
-| 78  |                                   Naruto                                   |                                              |          |         |      |           |
-| 79  |                             Natsume Yuujinchou                             |                                              |          |         |      |           |
-| 80  |                           NieR:Automata Ver1.1a                            |                                              |          |         |      |           |
-| 81  |                                  Noblesse                                  |                                              |          |         |      |           |
-| 82  |                               Occultic;Nine                                |                                              |          |         |      |           |
-| 83  |                               One Punch Man                                |                                              |          |         |      |           |
-| 84  |                                   Orange                                   |                    Orange                    |    13    | Series  | 2016 |    Yes    |
+| 54  |                                 Jigokuraku                                 |                                              |          | Series  | 2023 |           |
+| 55  |                       JoJo no Kimyou na Bouken (TV)                        |                                              |          |         |      |           |
+| 56  |                                 Joker Game                                 |                      -                       |   12+2   | Series  | 2016 |    Yes    |
+| 57  |                                 Jormungand                                 |                                              |          |         |      |           |
+| 58  |                   Jouran: The Princess of Snow and Blood                   |                                              |          |         |      |           |
+| 59  |                                     K                                      |                                              |          |         |      |           |
+| 60  |         Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen         |                                              |          |         |      |           |
+| 62  |                              Kanata no Astra                               |                                              |          |         |      |           |
+| 63  |                           Katekyo Hitman Reborn!                           |                                              |          |         |      |           |
+| 64  |                   Kono Subarashii Sekai ni Shukufuku wo!                   |                                              |          |         |      |           |
+| 65  |                Kono Yo no Hate de Koi wo Utau Shoujo YU-NO                 |                                              |          |         |      |           |
+| 66  |                   Koukaku Kidoutai: Stand Alone Complex                    |                                              |          |         |      |           |
+| 67  |                          Koutetsujou no Kabaneri                           |                                              |          |         |      |           |
+| 68  |                              Kuroko no Basket                              |                                              |          |         |      |           |
+| 69  |                                Kuroshitsuji                                |                                              |          |         |      |           |
+| 70  |                             Kyoukai no Kanata                              |                                              |          |         |      |           |
+| 71  |                                Log Horizon                                 |                                              |          |         |      |           |
+| 72  |                        Magi: The Labyrinth of Magic                        |                                              |          |         |      |           |
+| 73  |                         Mahou Shoujo Madoka★Magica                         |                                              |          |         |      |           |
+| 74  |                            Mahoutsukai no Yome                             |                                              |          |         |      |           |
+| 75  |                               Master Keaton                                |                                              |          | Series  | 1998 |           |
+| 76  |                                 Megalo Box                                 |                                              |          |         |      |           |
+| 77  |                               Mob Psycho 100                               |                                              |          |         |      |           |
+| 77  |                  Mushoku Tensei: Isekai Ittara Honki Dasu                  |                                              |          |         |      |           |
+| 78  |                                My Home Hero                                |                                              |          | Series  | 2023 |           |
+| 79  |                                  Nanbaka                                   |                                              |          |         |      |           |
+| 80  |                                   Naruto                                   |                                              |          |         |      |           |
+| 81  |                             Natsume Yuujinchou                             |                                              |          |         |      |           |
+| 82  |                           NieR:Automata Ver1.1a                            |                                              |          |         |      |           |
+| 83  |                                  Noblesse                                  |                                              |          |         |      |           |
+| 84  |                               Occultic;Nine                                |                                              |          |         |      |           |
+| 85  |                               One Punch Man                                |                                              |          |         |      |           |
+| 86  |                                   Orange                                   |                    Orange                    |    13    | Series  | 2016 |    Yes    |
 |     |                                                                            |                Orange: Mirai                 |    1     |  Movie  | 2016 |    Yes    |
-| 85  |                              Outbreak Company                              |                                              |          |         |      |           |
-| 86  |                               Pandora Hearts                               |                Pandora Hearts                |    25    | Series  | 2009 |    Yes    |
+| 87  |                              Outbreak Company                              |                                              |          |         |      |           |
+| 88  |                               Pandora Hearts                               |                Pandora Hearts                |    25    | Series  | 2009 |    Yes    |
 |     |                                                                            |           Pandora Hearts Specials            |    9     | Special | 2009 |    Yes    |
-| 87  |                                    Pet                                     |                                              |          |         |      |           |
-| 88  |                                 Plunderer                                  |                                              |          |         |      |           |
-| 89  |                   Re:Zero kara Hajimeru Isekai Seikatsu                    |                                              |          |         |      |           |
-| 90  |                                  Revenger                                  |                                              |          |         |      |           |
-| 91  |                               Robotics;Notes                               |                                              |          |         |      |           |
-| 92  |                                Saint Seiya                                 |                                              |          |         |      |           |
-| 93  |                              Samurai Champloo                              |                                              |          |         |      |           |
-| 94  |          Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai          |                                              |          |         |      |           |
-| 95  |                          Serial Experiments Lain                           |                                              |          |         |      |           |
-| 96  |                               Shadows House                                |                                              |          |         |      |           |
-| 97  |                          Shigatsu wa Kimi no Uso                           |                                              |          |         |      |           |
-| 98  |                                   Shiki                                    |                                              |          |         |      |           |
-| 99  |                            Shingeki no Bahamut                             |         Shingeki no Bahamut: Genesis         |    12    | Series  | 2014 |    Yes    |
+| 90  |                                    Pet                                     |                                              |          |         |      |           |
+| 91  |                                 Plunderer                                  |                                              |          |         |      |           |
+| 92  |                   Re:Zero kara Hajimeru Isekai Seikatsu                    |                                              |          |         |      |           |
+| 93  |                                  Revenger                                  |                                              |          |         |      |           |
+| 94  |                               Robotics;Notes                               |                                              |          |         |      |           |
+| 95  |                                Saint Seiya                                 |                                              |          |         |      |           |
+| 96  |                              Samurai Champloo                              |                                              |          |         |      |           |
+| 97  |          Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai          |                                              |          |         |      |           |
+| 98  |                          Serial Experiments Lain                           |                                              |          |         |      |           |
+| 99  |                               Shadows House                                |                                              |          |         |      |           |
+| 100 |                          Shigatsu wa Kimi no Uso                           |                                              |          |         |      |           |
+| 101 |                                   Shiki                                    |                                              |          |         |      |           |
+| 102 |                            Shingeki no Bahamut                             |         Shingeki no Bahamut: Genesis         |    12    | Series  | 2014 |    Yes    |
 |     |                                                                            |       Shingeki no Bahamut: Genesis OVA       |    2     |   OVA   | 2016 |    Yes    |
 |     |                                                                            |       Shingeki no Bahamut: Virgin Soul       |    24    | Series  | 2017 |    Yes    |
-| 100 |                                   Sirius                                   |                      -                       |    12    | Series  | 2018 |    Yes    |
-| 101 |                         Summer Time Rendering(TV)                          |                                              |          |         |      |           |
-| 102 |                          Tales of Zestiria the X                           |                                              |          |         |      |           |
-| 103 |                        Tate no Yuusha no Nariagari                         |                                              |          |         |      |           |
-| 104 |                         Tengen Toppa Gurren Lagann                         |                                              |          |         |      |           |
-| 105 |                       Tensei shitara Slime Datta Ken                       |                                              |          |         |      |           |
-| 106 |                                 Usagi Drop                                 |                                              |          |         |      |           |
-| 107 |                              Vanitas no karte                              |                                              |          |         |      |           |
-| 108 |                            Yuukoku no Moriarty                             |                                              |          |         |      |           |
-| 109 |                             Zetsuen no Tempest                             |                                              |          |         |      |           |
-| 110 |                              Zombieland Saga                               |                                              |          |         |      |           |
+| 103 |                                   Sirius                                   |                      -                       |    12    | Series  | 2018 |    Yes    |
+| 104 |                         Summer Time Rendering(TV)                          |                                              |          |         |      |           |
+| 105 |                          Tales of Zestiria the X                           |                                              |          |         |      |           |
+| 106 |                        Tate no Yuusha no Nariagari                         |                                              |          |         |      |           |
+| 107 |                         Tengen Toppa Gurren Lagann                         |                                              |          |         |      |           |
+| 108 |                       Tensei shitara Slime Datta Ken                       |                                              |          |         |      |           |
+| 109 |                                 Usagi Drop                                 |                                              |          |         |      |           |
+| 110 |                              Vanitas no karte                              |                                              |          |         |      |           |
+| 111 |                            Yuukoku no Moriarty                             |                                              |          |         |      |           |
+| 112 |                             Zetsuen no Tempest                             |                                              |          |         |      |           |
+| 113 |                              Zombieland Saga                               |                                              |          |         |      |           |
 
 ### Movies & OVA
 
