@@ -37,9 +37,9 @@ Just be warned, there's a high chance of developing a severe case of "**Anime Bi
 
 ## Currently Watching
 
-|  #   |   Title   |           Seasons           | Episodes |  Type  | Year |
-| :--: | :-------: | :-------------------------: | :------: | :----: | :--: |
-|  1   | Yu☆Gi☆Oh! | **Yu☆Gi☆Oh! Duel Monsters** |   224    | Series | 2000 |
+|  #   |      Title      |                Seasons                | Episodes |  Type  | Year |
+| :--: | :-------------: | :-----------------------------------: | :------: | :----: | :--: |
+|  1   | Tokyo Revengers | **Tokyo Revengers: Seiya Kessen-hen** |    13    | Series | 2023 |
 
 &nbsp;
 
@@ -250,7 +250,8 @@ The top list unordered!
 |  56  |               Youjo Senki                |               Youjo Senki                |    12    |   Series    | 2017 |
 |      |                                          |            Youjo Senki Movie             |    1     |    Movie    | 2019 |
 |  57  |                Yu☆Gi☆Oh!                 |                Yu☆Gi☆Oh!                 |    27    |   Series    | 1998 |
-|  57  |                                          |       Yu☆Gi☆Oh!: Hikari no Pyramid       |    1     |    Movie    | 2004 |
+|      |                                          |       Yu☆Gi☆Oh!: Hikari no Pyramid       |    1     |    Movie    | 2004 |
+|      |                                          |         Yu☆Gi☆Oh! Duel Monsters          |   224    |   Series    | 2000 |
 |  58  |            Zankyou No Terror             |                    -                     |    11    |   Series    | 2014 |
 
 ### **Movies**
@@ -284,18 +285,18 @@ The top list unordered!
 |      |                                 |       Boku no Hero Academia (ONA)        |    2     |   ONA   | 2022 |     No     |
 |  4   |        Bungou Stray Dogs        |       Bungou Stray Dogs 4th Season       |    13    | Series  | 2023 |    Yes     |
 |  5   |          Cowboy Bebop           |     Cowboy Bebop: Tengoku no Tobira      |    1     |  Movie  | 2001 |    Yes     |
-|  6   |         Jujutsu Kaisen          |          Jujutsu Kaisen 0 Movie          |    1     |  Movie  | 2021 |    Yes     |
-|  7   | Kimetsu No Yaiba (Demon Slayer) | Kimetsu No Yaiba: Katanakaji nno Sato-hen |    11    | Series  | 2023 |    Yes     |
-|  8   |        Nanatsu no Taizai        |   Nanatsu no Taizai: Ensa no Edinburgh   |    1     |   ONA   | 2022 |    Yes     |
-|  9   |            Odd Taxi             |       Odd Taxi Movie: In the Woods       |    1     |  Movie  | 2022 |    Yes     |
-|  10  |       Shingeki No Kyojin        | Shingeki No Kyojin: The Final Season - Kanketsu-hen |          | Special | 2023 | Unfinished |
-|  11  |        Sword Art Online         | Sword Art Online Alternative: Gun Gale Online |    12    | Series  | 2018 |    Yes     |
+|  6   |            Dr. Stone            |           Dr.Stone: New World            |    11    | Series  | 2023 |     No     |
+|  7   |         Jujutsu Kaisen          |          Jujutsu Kaisen 0 Movie          |    1     |  Movie  | 2021 |    Yes     |
+|  8   | Kimetsu No Yaiba (Demon Slayer) | Kimetsu No Yaiba: Katanakaji nno Sato-hen |    11    | Series  | 2023 |    Yes     |
+|  9   |        Nanatsu no Taizai        |   Nanatsu no Taizai: Ensa no Edinburgh   |    1     |   ONA   | 2022 |    Yes     |
+|  10  |            Odd Taxi             |       Odd Taxi Movie: In the Woods       |    1     |  Movie  | 2022 |    Yes     |
+|  11  |       Shingeki No Kyojin        | Shingeki No Kyojin: The Final Season - Kanketsu-hen |          | Special | 2023 | Unfinished |
+|  12  |        Sword Art Online         | Sword Art Online Alternative: Gun Gale Online |    12    | Series  | 2018 |    Yes     |
 |      |                                 |      Sword Art Online: Alicization       |    24    | Series  | 2018 |    Yes     |
 |      |                                 | Sword Art Online: Alicization - War of Underworld |    12    | Series  | 2019 |    Yes     |
 |      |                                 | Sword Art Online: Alicization - War of Underworld 2nd Season |    12    | Series  | 2020 |    Yes     |
 |      |                                 | Sword Art Online the Movie - Hoshi Naki Yoru no Aria |    1     |  Movie  | 2021 |     No     |
 |      |                                 | Sword Art Online: Progressive Movie - Kuraki Yuuyami no Scherzo |          |  Movie  | 2022 |     No     |
-|  12  |         Tokyo Revengers         |    Tokyo Revengers: Seiya Kessen-hen     |    13    | Series  | 2023 |    Yes     |
 |  13  |          Vinland Saga           |          Vinland Saga Season 2           |    24    | Series  | 2023 |    Yes     |
 |  14  |            Yu☆Gi☆Oh!            |       Yu☆Gi☆Oh!: Duel Monsters GX        |   180    | Series  | 2004 |    Yes     |
 |      |                                 |              Yu☆Gi☆Oh! 5D's              |   154    | Series  | 2008 |     No     |
