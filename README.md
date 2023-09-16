@@ -175,7 +175,7 @@ The top list unordered!
 |  30  |     Kimetsu No Yaiba (Demon Slayer)      |             Kimetsu No Yaiba             |    26    |   Series    | 2019 |
 |      |                                          |    Kimetsu No Yaiba: Mugen Ressha-hen    |    7     |   Series    | 2021 |
 |      |                                          |      Kimetsu No Yaiba: Yuukaku-hen       |    11    |   Series    | 2021 |
-|      |                                          | Kimetsu No Yaiba: Katanakaji nno Sato-hen |    11    |  Series     | 2023 |
+|      |                                          | Kimetsu No Yaiba: Katanakaji no Sato-hen |    11    |  Series     | 2023 |
 |  31  |   Kiseijuu-Sei no Kakuritsu (Parasyte)   |                    -                     |    24    |   Series    | 2014 |
 |  32  |                Kiznaiver                 |                    -                     |    12    |   Series    | 2016 |
 |  33  |              Made in Abyss               |              Made in Abyss               |    13    |   Series    | 2017 |
