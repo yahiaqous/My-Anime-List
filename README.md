@@ -37,9 +37,9 @@ Just be warned, there's a high chance of developing a severe case of "**Anime Bi
 
 ## Currently Watching
 
-|  #   |      Title      |                Seasons                | Episodes |  Type  | Year |
-| :--: | :-------------: | :-----------------------------------: | :------: | :----: | :--: |
-|  1   | Tokyo Revengers | **Tokyo Revengers: Seiya Kessen-hen** |    13    | Series | 2023 |
+|  #   |   Title   |                Seasons                | Episodes |  Type  | Year |
+| :--: | :-------: | :-----------------------------------: | :------: | :----: | :--: |
+|  1   | Dr. Stone |         **Dr.Stone: New World**       |    11    | Series | 2023 |
 
 &nbsp;
 
@@ -132,6 +132,8 @@ The top list unordered!
 |      |                                          | Boku No Hero Academia: Ikinokore! Kesshi no Survival Kunren |    2     |     ONA     | 2020 |
 |      |                                          |     Boku No Hero Academia 5th Season     |    25    |   Series    | 2021 |
 |      |                                          | Boku No Hero Academia the Movie 3: World Heroes Mission |    1     |    Movie    | 2021 |
+|      |                                          |     Boku no Hero Academia 6th Season     |    25    |   Series    | 2022 |
+|      |                                          |       Boku no Hero Academia (ONA)        |    2     |     ONA     | 2022 |
 |  13  |            Bungou Stray Dogs             |            Bungou Stray Dogs             |    12    |   Series    | 2016 |
 |      |                                          |       Bungou Stray Dogs 2nd Season       |   12+1   |   Series    | 2016 |
 |      |                                          |      Bungou Stray Dogs: Dead Apple       |    1     |    Movie    | 2018 |
@@ -173,6 +175,7 @@ The top list unordered!
 |  30  |     Kimetsu No Yaiba (Demon Slayer)      |             Kimetsu No Yaiba             |    26    |   Series    | 2019 |
 |      |                                          |    Kimetsu No Yaiba: Mugen Ressha-hen    |    7     |   Series    | 2021 |
 |      |                                          |      Kimetsu No Yaiba: Yuukaku-hen       |    11    |   Series    | 2021 |
+|      |                                          | Kimetsu No Yaiba: Katanakaji nno Sato-hen |    11    |  Series     | 2023 |
 |  31  |   Kiseijuu-Sei no Kakuritsu (Parasyte)   |                    -                     |    24    |   Series    | 2014 |
 |  32  |                Kiznaiver                 |                    -                     |    12    |   Series    | 2016 |
 |  33  |              Made in Abyss               |              Made in Abyss               |    13    |   Series    | 2017 |
@@ -241,7 +244,9 @@ The top list unordered!
 |      |                                          |              Tokyo Ghoul:re              |    12    |   Series    | 2018 |
 |      |                                          |        Tokyo Ghoul:re 2nd Season         |    12    |   Series    | 2018 |
 |  52  |             Tokyo Revengers              |             Tokyo Revengers              |    24    |   Series    | 2021 |
+|      |                                          |     Tokyo Revengers: Seiya Kessen-hen    |    13    |   Series    | 2023 |
 |  53  |               Vinland Saga               |               Vinland Saga               |    24    |   Series    | 2019 |
+|      |                                          |          Vinland Saga Season 2           |    24    |   Series    | 2023 |
 |  54  |            Violet Evergarden             |            Violet Evergarden             |   13+1   |   Series    | 2018 |
 |      |                                          | Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou |    1     |    Movie    | 2019 |
 |      |                                          |       Violet Evergarden the Movie        |    1     |    Movie    | 2020 |
@@ -281,24 +286,20 @@ The top list unordered!
 |      |                                 | Bleach Movie 3: Fade To Black - kimi no na wo yobu |    1     |  Movie  | 2008 |    Yes     |
 |      |                                 |        Bleach Movie 4: Jigoku-hen        |    1     |  Movie  | 2010 |    Yes     |
 |      |                                 |        Bleach: Sennen Kessen-hen         |    13    | Series  | 2022 |    Yes     |
-|  3   |      Boku no Hero Academia      |     Boku no Hero Academia 6th Season     |    25    | Series  | 2022 |    Yes     |
-|      |                                 |       Boku no Hero Academia (ONA)        |    2     |   ONA   | 2022 |     No     |
-|  4   |        Bungou Stray Dogs        |       Bungou Stray Dogs 4th Season       |    13    | Series  | 2023 |    Yes     |
-|  5   |          Cowboy Bebop           |     Cowboy Bebop: Tengoku no Tobira      |    1     |  Movie  | 2001 |    Yes     |
-|  6   |            Dr. Stone            |           Dr.Stone: New World            |    11    | Series  | 2023 |     No     |
-|  7   |         Jujutsu Kaisen          |          Jujutsu Kaisen 0 Movie          |    1     |  Movie  | 2021 |    Yes     |
-|  8   | Kimetsu No Yaiba (Demon Slayer) | Kimetsu No Yaiba: Katanakaji nno Sato-hen |    11    | Series  | 2023 |    Yes     |
-|  9   |        Nanatsu no Taizai        |   Nanatsu no Taizai: Ensa no Edinburgh   |    1     |   ONA   | 2022 |    Yes     |
-|  10  |            Odd Taxi             |       Odd Taxi Movie: In the Woods       |    1     |  Movie  | 2022 |    Yes     |
-|  11  |       Shingeki No Kyojin        | Shingeki No Kyojin: The Final Season - Kanketsu-hen |          | Special | 2023 | Unfinished |
-|  12  |        Sword Art Online         | Sword Art Online Alternative: Gun Gale Online |    12    | Series  | 2018 |    Yes     |
+|  3   |        Bungou Stray Dogs        |       Bungou Stray Dogs 4th Season       |    13    | Series  | 2023 |    Yes     |
+|  4   |          Cowboy Bebop           |     Cowboy Bebop: Tengoku no Tobira      |    1     |  Movie  | 2001 |    Yes     |
+|  5   |            Dr. Stone            |           Dr.Stone: New World            |    11    | Series  | 2023 |     No     |
+|  6   |         Jujutsu Kaisen          |          Jujutsu Kaisen 0 Movie          |    1     |  Movie  | 2021 |    Yes     |
+|  7   |        Nanatsu no Taizai        |   Nanatsu no Taizai: Ensa no Edinburgh   |    1     |   ONA   | 2022 |    Yes     |
+|  8   |            Odd Taxi             |       Odd Taxi Movie: In the Woods       |    1     |  Movie  | 2022 |    Yes     |
+|  9   |       Shingeki No Kyojin        | Shingeki No Kyojin: The Final Season - Kanketsu-hen |          | Special | 2023 | Unfinished |
+|  10  |        Sword Art Online         | Sword Art Online Alternative: Gun Gale Online |    12    | Series  | 2018 |    Yes     |
 |      |                                 |      Sword Art Online: Alicization       |    24    | Series  | 2018 |    Yes     |
 |      |                                 | Sword Art Online: Alicization - War of Underworld |    12    | Series  | 2019 |    Yes     |
 |      |                                 | Sword Art Online: Alicization - War of Underworld 2nd Season |    12    | Series  | 2020 |    Yes     |
 |      |                                 | Sword Art Online the Movie - Hoshi Naki Yoru no Aria |    1     |  Movie  | 2021 |     No     |
 |      |                                 | Sword Art Online: Progressive Movie - Kuraki Yuuyami no Scherzo |          |  Movie  | 2022 |     No     |
-|  13  |          Vinland Saga           |          Vinland Saga Season 2           |    24    | Series  | 2023 |    Yes     |
-|  14  |            Yu☆Gi☆Oh!            |       Yu☆Gi☆Oh!: Duel Monsters GX        |   180    | Series  | 2004 |    Yes     |
+|  11  |            Yu☆Gi☆Oh!            |       Yu☆Gi☆Oh!: Duel Monsters GX        |   180    | Series  | 2004 |    Yes     |
 |      |                                 |              Yu☆Gi☆Oh! 5D's              |   154    | Series  | 2008 |     No     |
 |      |                                 | Yu☆Gi☆Oh! Movie: Chou Yuugou! Toki wo Koeta Kizuna |    1     |  Movie  | 2010 |     No     |
 |      |                                 |             Yu☆Gi☆Oh! Zexal              |    72    | Series  | 2011 |     No     |
