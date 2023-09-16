@@ -288,18 +288,17 @@ The top list unordered!
 |      |                                 |        Bleach: Sennen Kessen-hen         |    13    | Series  | 2022 |    Yes     |
 |  3   |        Bungou Stray Dogs        |       Bungou Stray Dogs 4th Season       |    13    | Series  | 2023 |    Yes     |
 |  4   |          Cowboy Bebop           |     Cowboy Bebop: Tengoku no Tobira      |    1     |  Movie  | 2001 |    Yes     |
-|  5   |            Dr. Stone            |           Dr.Stone: New World            |    11    | Series  | 2023 |     No     |
-|  6   |         Jujutsu Kaisen          |          Jujutsu Kaisen 0 Movie          |    1     |  Movie  | 2021 |    Yes     |
-|  7   |        Nanatsu no Taizai        |   Nanatsu no Taizai: Ensa no Edinburgh   |    1     |   ONA   | 2022 |    Yes     |
-|  8   |            Odd Taxi             |       Odd Taxi Movie: In the Woods       |    1     |  Movie  | 2022 |    Yes     |
-|  9   |       Shingeki No Kyojin        | Shingeki No Kyojin: The Final Season - Kanketsu-hen |          | Special | 2023 | Unfinished |
-|  10  |        Sword Art Online         | Sword Art Online Alternative: Gun Gale Online |    12    | Series  | 2018 |    Yes     |
+|  5   |         Jujutsu Kaisen          |          Jujutsu Kaisen 0 Movie          |    1     |  Movie  | 2021 |    Yes     |
+|  6   |        Nanatsu no Taizai        |   Nanatsu no Taizai: Ensa no Edinburgh   |    1     |   ONA   | 2022 |    Yes     |
+|  7   |            Odd Taxi             |       Odd Taxi Movie: In the Woods       |    1     |  Movie  | 2022 |    Yes     |
+|  8   |       Shingeki No Kyojin        | Shingeki No Kyojin: The Final Season - Kanketsu-hen |          | Special | 2023 | Unfinished |
+|  9   |        Sword Art Online         | Sword Art Online Alternative: Gun Gale Online |    12    | Series  | 2018 |    Yes     |
 |      |                                 |      Sword Art Online: Alicization       |    24    | Series  | 2018 |    Yes     |
 |      |                                 | Sword Art Online: Alicization - War of Underworld |    12    | Series  | 2019 |    Yes     |
 |      |                                 | Sword Art Online: Alicization - War of Underworld 2nd Season |    12    | Series  | 2020 |    Yes     |
 |      |                                 | Sword Art Online the Movie - Hoshi Naki Yoru no Aria |    1     |  Movie  | 2021 |     No     |
 |      |                                 | Sword Art Online: Progressive Movie - Kuraki Yuuyami no Scherzo |          |  Movie  | 2022 |     No     |
-|  11  |            Yu☆Gi☆Oh!            |       Yu☆Gi☆Oh!: Duel Monsters GX        |   180    | Series  | 2004 |    Yes     |
+|  10  |            Yu☆Gi☆Oh!            |       Yu☆Gi☆Oh!: Duel Monsters GX        |   180    | Series  | 2004 |    Yes     |
 |      |                                 |              Yu☆Gi☆Oh! 5D's              |   154    | Series  | 2008 |     No     |
 |      |                                 | Yu☆Gi☆Oh! Movie: Chou Yuugou! Toki wo Koeta Kizuna |    1     |  Movie  | 2010 |     No     |
 |      |                                 |             Yu☆Gi☆Oh! Zexal              |    72    | Series  | 2011 |     No     |
