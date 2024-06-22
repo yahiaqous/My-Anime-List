@@ -37,9 +37,10 @@ Just be warned, there's a high chance of developing a severe case of "**Anime Bi
 
 ## Currently Watching
 
-|  #   |   Title   |                Seasons                | Episodes |  Type  | Year |
-| :--: | :-------: | :-----------------------------------: | :------: | :----: | :--: |
-|  1   | Dr. Stone |         **Dr.Stone: New World**       |    11    | Series | 2023 |
+|  #   |       Title       |                Seasons                | Episodes |  Type  | Year |
+| :--: | :---------------: | :-----------------------------------: | :------: | :----: | :--: |
+|  1   | Bungou Stray Dogs | **2019 Bungou Stray Dogs 3rd Season** |    12    | Series | 2019 |
+|  2   |     Initial D     |      **Initial D Fourth Stage**       |    24    | Series | 2004 |
 
 &nbsp;
 
@@ -78,6 +79,7 @@ The top list unordered!
 |  13  |           Fullmetal Alchemist            |
 |  14  |                God Eater                 |
 |  15  |             Hunter x Hunter              |
+|  15  |                Initial D                 |
 |  16  |              Jujutsu Kaisen              |
 |  17  |     Kimetsu No Yaiba (Demon Slayer)      |
 |  18  |   Kiseijuu-Sei no Kakuritsu (Parasyte)   |
@@ -159,6 +161,7 @@ The top list unordered!
 |  21  |                Dr. Stone                 |                Dr. Stone                 |   24+1   |   Series    | 2019 |
 |      |                                          |          Dr. Stone: Stone Wars           |    11    |   Series    | 2021 |
 |      |                                          |            Dr. Stone: Ryuusui            |    1     |     OVA     | 2022 |
+|      |                                          |           Dr. Stone: New World           |    11    |   Series    | 2023 |
 |  22  |           Fullmetal Alchemist            |     Fullmetal Alchemist: Brotherhood     |   64+4   |   Series    | 2009 |
 |      |                                          | Fullmetal Alchemist: Conqueror of Shamballa |    1     |    Movie    | 2005 |
 |      |                                          | Fullmetal Alchemist: The Sacred Star of Milos |    1     |    Movie    | 2011 |
@@ -171,45 +174,48 @@ The top list unordered!
 |  28  |             Hunter x Hunter              |          Hunter x Hunter (2011)          |   148    |   Series    | 2011 |
 |      |                                          |  Hunter x Hunter Movie 1: Phantom Rouge  |    1     |    Movie    | 2013 |
 |      |                                          | Hunter x Hunter Movie 2: The Last Mission |    1     |    Movie    | 2013 |
-|  29  |              Jujutsu Kaisen              |              Jujutsu Kaisen              |    24    |   Series    | 2020 |
-|  30  |     Kimetsu No Yaiba (Demon Slayer)      |             Kimetsu No Yaiba             |    26    |   Series    | 2019 |
+|  29  |                Initial D                 |          Initial D First Stage           |    26    |   Series    | 1998 |
+|      |                                          |          Initial D Second Stage          |    13    |   Series    | 1999 |
+|      |                                          |          Initial D Third Stage           |    1     |    Movie    | 2001 |
+|  30  |              Jujutsu Kaisen              |              Jujutsu Kaisen              |    24    |   Series    | 2020 |
+|  31  |     Kimetsu No Yaiba (Demon Slayer)      |             Kimetsu No Yaiba             |    26    |   Series    | 2019 |
 |      |                                          |    Kimetsu No Yaiba: Mugen Ressha-hen    |    7     |   Series    | 2021 |
 |      |                                          |      Kimetsu No Yaiba: Yuukaku-hen       |    11    |   Series    | 2021 |
 |      |                                          | Kimetsu No Yaiba: Katanakaji no Sato-hen |    11    |  Series     | 2023 |
-|  31  |   Kiseijuu-Sei no Kakuritsu (Parasyte)   |                    -                     |    24    |   Series    | 2014 |
-|  32  |                Kiznaiver                 |                    -                     |    12    |   Series    | 2016 |
-|  33  |              Made in Abyss               |              Made in Abyss               |    13    |   Series    | 2017 |
+|  32  |   Kiseijuu-Sei no Kakuritsu (Parasyte)   |                    -                     |    24    |   Series    | 2014 |
+|  33  |                Kiznaiver                 |                    -                     |    12    |   Series    | 2016 |
+|  34  |              Made in Abyss               |              Made in Abyss               |    13    |   Series    | 2017 |
 |      |                                          | Made in Abyss Movie 3: Fukaki Tamashii no Reimei |    1     |    Movie    | 2020 |
 |      |                                          |  Made in Abyss: Retsujitsu no Ougonkyou  |    12    |   Series    | 2022 |
-|  34  |        Mirai Nikki (Future Diary)        |               Mirai Nikki                |   26+1   |   Series    | 2011 |
+|  35  |        Mirai Nikki (Future Diary)        |               Mirai Nikki                |   26+1   |   Series    | 2011 |
 |      |                                          |           Mirai Nikki: Redial            |    1     |     OVA     | 2013 |
-|  35  |                 Monster                  |                    -                     |    74    |   Series    | 2004 |
-|  36  |  Nanatsu No Taizai (Seven Deadly Sins)   |            Nanatsu No Taizai             |   24+2   |   Series    | 2014 |
+|  36  |                 Monster                  |                    -                     |    74    |   Series    | 2004 |
+|  37  |  Nanatsu No Taizai (Seven Deadly Sins)   |            Nanatsu No Taizai             |   24+2   |   Series    | 2014 |
 |      |                                          |  Nanatsu No Taizai: Seisen no Shirushi   |    4     |   Series    | 2016 |
 |      |                                          | Nanatsu No Taizai: Imashime no Fukkatsu  |   24+1   |   Series    | 2018 |
 |      |                                          | Nanatsu no Taizai Movie: Tenkuu no Torawarebito |    1     |    Movie    | 2018 |
 |      |                                          |  Nanatsu no Taizai: Kamigami no Gekirin  |    24    |   Series    | 2019 |
 |      |                                          |   Nanatsu no Taizai: Fundo no Shinpan    |    24    |   Series    | 2021 |
 |      |                                          | Nanatsu no Taizai Movie 2: Hikari ni Norowareshi Mono-tachi |    1     |    Movie    | 2021 |
-|  37  |             No Game No Life              |             No Game No Life              |    12    |   Series    | 2014 |
+|  38  |             No Game No Life              |             No Game No Life              |    12    |   Series    | 2014 |
 |      |                                          |          No Game No Life: Zero           |    1     |    Movie    | 2017 |
-|  38  |                   No.6                   |                    -                     |    11    |   Series    | 2011 |
-|  39  |                 Noragami                 |                 Noragami                 |   12+1   |   Series    | 2014 |
+|  39  |                   No.6                   |                    -                     |    11    |   Series    | 2011 |
+|  40  |                 Noragami                 |                 Noragami                 |   12+1   |   Series    | 2014 |
 |      |                                          |               Noragami OVA               |    1     |     OVA     | 2015 |
 |      |                                          |             Noragami Aragato             |   13+1   |   Series    | 2014 |
 |      |                                          |           Noragami Aragato OVA           |    1     |     OVA     | 2015 |
-|  40  |                 Odd Taxi                 |                 Odd Taxi                 |    13    |   Series    | 2021 |
-|  41  |              Ousama Ranking              |              Ousama Ranking              |    23    |   Series    | 2021 |
+|  41  |                 Odd Taxi                 |                 Odd Taxi                 |    13    |   Series    | 2021 |
+|  42  |              Ousama Ranking              |              Ousama Ranking              |    23    |   Series    | 2021 |
 |      |                                          |   Ousama Ranking: Yuuki no Takarabako    |    10    |   Series    | 2023 |
-|  42  |                 Overlord                 |                 Overlord                 |    13    |   Series    | 2015 |
+|  43  |                 Overlord                 |                 Overlord                 |    13    |   Series    | 2015 |
 |      |                                          |     Overlord Movie 1: Fushisha no Ou     |    1     |    Movie    | 2017 |
 |      |                                          |   Overlord Movie 2: Shikkpku no Eiyuu    |    1     |    Movie    | 2017 |
 |      |                                          |               Overlord II                |    13    |   Series    | 2018 |
 |      |                                          |               Overlord III               |    13    |   Series    | 2018 |
-|  43  |   Owari No Seraph (Seraph of the End)    |             Owari No Seraph              |    12    |   Series    | 2015 |
+|  44  |   Owari No Seraph (Seraph of the End)    |             Owari No Seraph              |    12    |   Series    | 2015 |
 |      |                                          |    Owari No Seraph: Nagoya Kessen-hen    |   12+2   |   Series    | 2015 |
-|  44  |     Phantom:Requiem for the Phantom      |                    -                     |    26    |   Series    | 2009 |
-|  45  |               Psycho-Pass                |               Psycho-Pass                |    22    |   Series    | 2012 |
+|  45  |     Phantom:Requiem for the Phantom      |                    -                     |    26    |   Series    | 2009 |
+|  46  |               Psycho-Pass                |               Psycho-Pass                |    22    |   Series    | 2012 |
 |      |                                          |              Psycho-Pass 2               |    11    |   Series    | 2014 |
 |      |                                          |            Psycho-Pass Movie             |    1     |    Movie    | 2015 |
 |      |                                          | Psycho-Pass- Sinners of the System Case.1 - Tsumi to Bachi |    1     |    Movie    | 2019 |
@@ -217,8 +223,8 @@ The top list unordered!
 |      |                                          | Psycho-Pass- Sinners of the System Case.3 - Onshuu no Kanata ni |    1     |    Movie    | 2019 |
 |      |                                          |              Psycho-Pass 3               |    8     |   Series    | 2019 |
 |      |                                          |      Psycho-Pass 3: First Inspector      |    1     |    Movie    | 2020 |
-|  46  |    Rainbow:Nisha Rokubou No Shichinin    |                    -                     |    26    |   Series    | 2010 |
-|  47  |   Shingeki No Kyojin (Attack on Titan)   |            Shingeki No Kyojin            |    25    |   Series    | 2013 |
+|  47  |    Rainbow:Nisha Rokubou No Shichinin    |                    -                     |    26    |   Series    | 2010 |
+|  48  |   Shingeki No Kyojin (Attack on Titan)   |            Shingeki No Kyojin            |    25    |   Series    | 2013 |
 |      |                                          |          Shingeki No Kyojin OVA          |    3     |     OVA     | 2013 |
 |      |                                          |          Shingeki No Kyojin OVA          |    1     |     OVA     | 2014 |
 |      |                                          |       Shingeki No Kyojin Season 2        |    12    |   Series    | 2017 |
@@ -227,37 +233,37 @@ The top list unordered!
 |      |                                          |    Shingeki No Kyojin Season 3 Part 2    |    10    |   Series    | 2019 |
 |      |                                          |   Shingeki No Kyojin: The Final Season   |    16    |   Series    | 2021 |
 |      |                                          | Shingeki No Kyojin: The Final Season Part 2 |    12    |   Series    | 2022 |
-|      |                                          | Shingeki No Kyojin: The Final Season - Kanketsu-hen |    1     |   Special   | 2023 |
-|  48  |               Spy x Family               |               Spy x Family               |    12    |   Series    | 2022 |
+|      |                                          | Shingeki No Kyojin: The Final Season - Kanketsu-hen |    2     |   Special   | 2023 |
+|  49  |               Spy x Family               |               Spy x Family               |    12    |   Series    | 2022 |
 |      |                                          |           Spy x Family Part 2            |    12    |   Series    | 2022 |
-|  49  |               Steins;Gate                |               Steins;Gate                |    24    |   Series    | 2011 |
+|  50  |               Steins;Gate                |               Steins;Gate                |    24    |   Series    | 2011 |
 |      |                                          | Steins;Gate: Kyoukaimenjou no Missing Link: Divide By Zero |    1     |     OVA     | 2015 |
 |      |                                          |              Steins;Gate 0               |   23+1   |   Series    | 2018 |
 |      |                                          |  Steins;Gate: Oukoubakko no Poriomania   |    1     |     OVA     | 2012 |
 |      |                                          |   Steins;Gate: Fuka Ryouiki no Déjà vu   |    1     |    Movie    | 2013 |
-|  50  |             Sword Art Online             |             Sword Art Online             |    25    |   Series    | 2012 |
+|  51  |             Sword Art Online             |             Sword Art Online             |    25    |   Series    | 2012 |
 |      |                                          |     Sword Art Online: Extra Edition      |    1     |    Movie    | 2013 |
 |      |                                          |           Sword Art Online II            |    24    |   Series    | 2014 |
 |      |                                          |  Sword Art Online Movie: Ordinal Scale   |    1     |    Movie    | 2017 |
-|  51  |               Tokyo Ghoul                |               Tokyo Ghoul                |    12    |   Series    | 2014 |
+|  52  |               Tokyo Ghoul                |               Tokyo Ghoul                |    12    |   Series    | 2014 |
 |      |                                          |              Tokyo Ghoul √A              |   12+2   |   Series    | 2015 |
 |      |                                          |              Tokyo Ghoul:re              |    12    |   Series    | 2018 |
 |      |                                          |        Tokyo Ghoul:re 2nd Season         |    12    |   Series    | 2018 |
-|  52  |             Tokyo Revengers              |             Tokyo Revengers              |    24    |   Series    | 2021 |
+|  53  |             Tokyo Revengers              |             Tokyo Revengers              |    24    |   Series    | 2021 |
 |      |                                          |     Tokyo Revengers: Seiya Kessen-hen    |    13    |   Series    | 2023 |
-|  53  |               Vinland Saga               |               Vinland Saga               |    24    |   Series    | 2019 |
+|  54  |               Vinland Saga               |               Vinland Saga               |    24    |   Series    | 2019 |
 |      |                                          |          Vinland Saga Season 2           |    24    |   Series    | 2023 |
-|  54  |            Violet Evergarden             |            Violet Evergarden             |   13+1   |   Series    | 2018 |
+|  55  |            Violet Evergarden             |            Violet Evergarden             |   13+1   |   Series    | 2018 |
 |      |                                          | Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou |    1     |    Movie    | 2019 |
 |      |                                          |       Violet Evergarden the Movie        |    1     |    Movie    | 2020 |
-|  55  | Yakusoku no Neverland (The Promised Neverland) |          Yakusoku no Neverland           |    12    |   Series    | 2019 |
+|  56  | Yakusoku no Neverland (The Promised Neverland) |          Yakusoku no Neverland           |    12    |   Series    | 2019 |
 |      |                                          |     Yakusoku no Neverland 2nd Season     |    11    |   Series    | 2021 |
-|  56  |               Youjo Senki                |               Youjo Senki                |    12    |   Series    | 2017 |
+|  57  |               Youjo Senki                |               Youjo Senki                |    12    |   Series    | 2017 |
 |      |                                          |            Youjo Senki Movie             |    1     |    Movie    | 2019 |
-|  57  |                Yu☆Gi☆Oh!                 |                Yu☆Gi☆Oh!                 |    27    |   Series    | 1998 |
+|  58  |                Yu☆Gi☆Oh!                 |                Yu☆Gi☆Oh!                 |    27    |   Series    | 1998 |
 |      |                                          |       Yu☆Gi☆Oh!: Hikari no Pyramid       |    1     |    Movie    | 2004 |
 |      |                                          |         Yu☆Gi☆Oh! Duel Monsters          |   224    |   Series    | 2000 |
-|  58  |            Zankyou No Terror             |                    -                     |    11    |   Series    | 2014 |
+|  59  |            Zankyou No Terror             |                    -                     |    11    |   Series    | 2014 |
 
 ### **Movies**
 
